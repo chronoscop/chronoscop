@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 [![Frontend Web Login Interface](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=Frontend-Web-Login-Interface)](https://github.com/chronoscop/Frontend-Web-Login-Interface)
 
 ### [SpeakEasy](https://github.com/zzl7181/SpeakEasy)
-[![SpeakEasy](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop1&repo=SpeakEasy)](https://github.com/chronoscop/SpeakEasy)
+[![SpeakEasy](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=SpeakEasy)](https://github.com/chronoscop/SpeakEasy)
 
 ### [Dynamic Programming](https://github.com/zzl7181/Dynamic-progamming)
 
