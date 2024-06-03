@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzl7181)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronoscop)](https://github.com/anuraghazra/github-readme-stats)
 ## Projects
 
 ### [Frontend Web Login Interface](https://github.com/zzl7181/Frontend-Web-Login-Interface)
