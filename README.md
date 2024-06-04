@@ -2,9 +2,11 @@
 
 Welcome to my GitHub profile!
 
+This profile uses [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra).
+
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronoscop)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronoscop)]()
 ## Projects
 
 ### [Frontend Web Login Interface](https://github.com/zzl7181/Frontend-Web-Login-Interface)
