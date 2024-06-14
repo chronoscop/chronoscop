@@ -15,9 +15,9 @@ This profile uses [GitHub Readme Stats](https://github.com/anuraghazra/github-re
 ### [SpeakEasy](https://github.com/chronoscop/SpeakEasy)
 [![SpeakEasy](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=SpeakEasy)](https://github.com/chronoscop/SpeakEasy)
 
-### [Dynamic Programming](https://github.com/chronoscop/Dynamic-progamming)
+### [python-getting-starts](https://github.com/chronoscop/python-getting-starts)
 
-[![Dynamic-progamming](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=Dynamic-progamming)](https://github.com/chronoscop/Dynamic-progamming)
+[![python-getting-starts](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=python-getting-starts)](https://github.com/chronoscop/python-getting-starts)
 
 -----
 
