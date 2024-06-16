@@ -1,6 +1,6 @@
 # Hi there!  👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! 😘
 
 This profile uses [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra).
 
