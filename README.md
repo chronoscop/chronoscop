@@ -19,6 +19,6 @@ This profile theme uses [GitHub Readme Stats](https://github.com/anuraghazra/git
 
 [![python-getting-starts](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=python-getting-starts)](https://github.com/chronoscop/python-getting-starts)
 
------
+-------
 
 Feel free to explore my repositories and projects. 
