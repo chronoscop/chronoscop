@@ -12,8 +12,8 @@ This profile theme uses [GitHub Readme Stats](https://github.com/anuraghazra/git
 ### [Frontend Web Login Interface](https://github.com/chronoscop/Frontend-Web-Login-Interface)
 [![Frontend Web Login Interface](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=Frontend-Web-Login-Interface)](https://github.com/chronoscop/Frontend-Web-Login-Interface)
 
-### [SpeakEasy](https://github.com/chronoscop/SpeakEasy)
-[![SpeakEasy](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=SpeakEasy)](https://github.com/chronoscop/SpeakEasy)
+### [EmoCare](https://github.com/chronoscop/EmoCare)
+[![EmoCare](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=EmoCare)](https://github.com/chronoscop/EmoCare)
 
 ### [python-getting-starts](https://github.com/chronoscop/python-getting-starts)
 
