@@ -12,6 +12,9 @@ This profile theme uses [GitHub Readme Stats](https://github.com/anuraghazra/git
 ### [Frontend Web Login Interface](https://github.com/chronoscop/Frontend-Web-Login-Interface)
 [![Frontend Web Login Interface](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=Frontend-Web-Login-Interface)](https://github.com/chronoscop/Frontend-Web-Login-Interface)
 
+### [JS Public LB 26th training code](https://github.com/chronoscop/JS-Public-LB-26th-training-code)
+[![JS Public LB 26th training code](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=JS-Public-LB-26th-training-code)](https://github.com/chronoscop/JS-Public-LB-26th-training-code)
+
 ### [SpeakEasy](https://github.com/chronoscop/SpeakEasy)
 [![SpeakEasy](https://github-readme-stats.vercel.app/api/pin/?username=chronoscop&repo=SpeakEasy)](https://github.com/chronoscop/SpeakEasy)
 
@@ -22,4 +25,5 @@ This profile theme uses [GitHub Readme Stats](https://github.com/anuraghazra/git
 -------
 
 Feel free to explore my repositories and projects. 
+
 
