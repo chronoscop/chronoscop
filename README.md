@@ -6,7 +6,7 @@ This profile theme uses [GitHub Readme Stats](https://github.com/anuraghazra/git
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronoscop)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronoscop&langs_count=8)
 ## Projects
 
 ### [Frontend Web Login Interface](https://github.com/chronoscop/Frontend-Web-Login-Interface)
@@ -25,6 +25,7 @@ This profile theme uses [GitHub Readme Stats](https://github.com/anuraghazra/git
 -------
 
 Feel free to explore my repositories and projects. 
+
 
 
 
