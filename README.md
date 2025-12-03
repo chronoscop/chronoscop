@@ -16,8 +16,8 @@ The repository I forked is at [here](https://github.com/chronoscop/github-readme
 ### [JS Public LB 26th training code](https://github.com/chronoscop/JS-Public-LB-26th-training-code)
 [![JS Public LB 26th training code](https://github-readme-stats-virid-kappa-87.vercel.app/api/pin/?username=chronoscop&repo=JS-Public-LB-26th-training-code)](https://github.com/chronoscop/JS-Public-LB-26th-training-code)
 
-### [EmoCare](https://github.com/chronoscop/EmoCare)
-[![EmoCare](https://github-readme-stats-virid-kappa-87.vercel.app/api/pin/?username=chronoscop&repo=EmoCare)](https://github.com/chronoscop/EmoCare)
+### [EmoCare-code](https://github.com/chronoscop/EmoCare-code)
+[![EmoCare-code](https://github-readme-stats-virid-kappa-87.vercel.app/api/pin/?username=chronoscop&repo=EmoCare-code)](https://github.com/chronoscop/EmoCare-code)
 
 ### [python-getting-starts](https://github.com/chronoscop/python-getting-starts)
 
@@ -26,6 +26,7 @@ The repository I forked is at [here](https://github.com/chronoscop/github-readme
 -------
 
 Feel free to explore my repositories and projects. 
+
 
 
 
